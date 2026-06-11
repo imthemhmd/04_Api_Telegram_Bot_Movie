@@ -1,0 +1,6 @@
+*.db
+.venv/
+code/
+bale_bot/
+*.rar
+bot_token.py
