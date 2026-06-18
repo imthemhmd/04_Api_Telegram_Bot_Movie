@@ -3,3 +3,6 @@
 code/
 bale_bot/
 *.rar
+tokenn.py
+callback_data.py
+.gitignore
